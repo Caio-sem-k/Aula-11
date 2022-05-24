@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    background-color: whitesmoke;
+    flex-direction: column
+}
+
+h2{
+    color: blueviolet
+}
+
+
+.h2resultado{color: black; }
+
+.imagem{width: 600px;
+        height: 300px;}
